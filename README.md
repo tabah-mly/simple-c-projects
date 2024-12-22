@@ -1,1 +1,1 @@
-# simple-c-projects
+# Simple C Projects
